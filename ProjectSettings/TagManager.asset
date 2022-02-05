@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Minimap
+  - Factories
+  - Upgradebtn
+  - CompanyNameChange
+  - Bot
+  - Popup
+  - HomePref
+  - Journalist
+  - AiCheckpoints
+  - AiWalls
+  - Enemy
+  - objective1
+  - objective2
+  - objective3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Factories
+  - Player mark
+  - BackGround
+  - FactorySabotage
+  - Holders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NameTags
+    uniqueID: 379530003
+    locked: 0
+  - name: Popup
+    uniqueID: 524019189
+    locked: 0
